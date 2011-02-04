@@ -1,0 +1,15 @@
+/* adds the spinner to a button when loading */
+.working-status {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background: url(../images/loading-sm.gif) no-repeat center center;
+	z-index: 999;
+}
+.working-bg {
+	background: url(../images/loading-sm.gif) no-repeat center center;
+}
+.working-hide {
+	display: none;
+}
+.working-disable {}
